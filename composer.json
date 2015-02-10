@@ -2,6 +2,7 @@
     "name": "matthis/laravel-doctrine",
     "description": "Doctrine integration for Laravel 5",
     "license": "MIT",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Matthis Stenius",
