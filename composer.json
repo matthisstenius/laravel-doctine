@@ -1,0 +1,12 @@
+{
+    "name": "matthis/laravel-doctrine",
+    "description": "Doctrine integration for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthis Stenius",
+            "email": "matthis@me.com"
+        }
+    ],
+    "require": {}
+}
